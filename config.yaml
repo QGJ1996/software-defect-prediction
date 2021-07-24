@@ -1,0 +1,8 @@
+lr:
+  1e-4
+epoches:
+  100
+d_rate:
+  0.25
+loss_fn:
+  "binary_crossentropy"
